@@ -1,0 +1,1 @@
+{"jobID":"c8edc5c7-b664-fd9a-fc3a-38cea87054b4","spec":{"type":"policy","cause":{"Message":"","User":"Jason Deland \u003cjaydeland@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag.podinfod":"glob:3.*"},"remove":{}}}},"result":null}
