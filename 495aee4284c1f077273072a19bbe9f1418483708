@@ -1,0 +1,1 @@
+{"jobID":"aac16daf-f896-ac0b-69a8-b40fac3624a8","spec":{"type":"policy","cause":{"Message":"3.2.2 does not work for us","User":"Jason Deland \u003cjaydeland@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"locked":"true","locked_msg":"3.2.2 does not work for us","locked_user":"Jason Deland \u003cjaydeland@gmail.com\u003e"},"remove":{}}}},"result":null}
